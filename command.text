@@ -1,0 +1,13 @@
+git config --global user.email "bhargav29feb@gmail.com"
+git config --global user.name "bcj"
+
+basic command:
+1) git init => this command make project in git project
+2) git add [filename] || -A  ==== add file in stzing area
+3) git status   => check status file add in git project
+4) git commit -m "msg" => snapsot for backup (commit)
+5) git remote add origin repoName => link file on git 
+6) git push origin master  => file pus on git site
+7) git clone repoName > file clone your local directroy
+8) git pull origin master
+
